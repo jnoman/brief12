@@ -33,3 +33,5 @@
 13- ajouter les produits
 
 14- créer un coupons
+
+15- Télécharger et installer l'extension "GDPR" pour Règlement Général pour la Protection des Données
