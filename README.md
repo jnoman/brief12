@@ -26,7 +26,7 @@
 
 10- Télécharger et installer l'extension "RankMath" pour seo et configuré
 
-11- Télécharger et installer l'extension "Polylang" pour multilingue et configuré
+11- Télécharger et installer l'extension "Weglot" pour multilingue et configuré
 
 12- créer les catégories
 
